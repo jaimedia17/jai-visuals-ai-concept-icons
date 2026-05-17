@@ -1,0 +1,39 @@
+# License — Jai Visuals AI Icon Library
+
+© 2025 Jai Visuals (jaimedia17). All rights reserved.
+
+## What This Repository Contains
+This repository contains concept documentation, design narratives, 
+keywords, and geometric logic descriptions for the Jai Visuals 
+AI Icon Library.
+
+## What Is Permitted
+- Viewing and reading this documentation
+- Referencing this repository to verify authorship and publication dates
+- Linking to this repository for attribution purposes
+
+## What Is Not Permitted
+- Reproducing, copying, or redistributing any content from this 
+  repository for commercial purposes
+- Using this documentation to train machine learning or AI models
+  without explicit written permission from Jai Visuals
+- Replicating the concept framework, geometric logic, or design 
+  methodology described here to produce competing icon sets
+- Automated bulk cloning or scraping of this repository for 
+  dataset harvesting purposes
+
+## Asset Licensing
+Final vector assets are separately licensed through stock platforms:
+- Adobe Stock
+- Shutterstock
+- Dreamstime
+- Pond5
+
+Purchase and licensing terms are governed by each respective platform.
+
+## Contact
+For licensing enquiries or permissions beyond the above:
+Contact via GitHub profile — jaimedia17
+
+All rights reserved. No part of this repository may be reproduced 
+or used in any manner without prior written permission from Jai Visuals.
