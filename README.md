@@ -12,10 +12,10 @@ Designed for use in UI dashboards, diagrams, technical documentation, and AI wor
 
 ## Asset Availability
 All final vector assets are available for licensing on:
-- [Adobe Stock](https://stock.adobe.com)
-- [Shutterstock](https://www.shutterstock.com)
-- [Dreamstime](https://www.dreamstime.com)
-- [Pond5](https://www.pond5.com)
+- [Adobe Stock](https://stock.adobe.com/nz/contributor/213177739/jai-visuals-nz?load_type=author&prev_url=detail)
+- [Shutterstock](https://www.shutterstock.com/g/JaivisualsNZ?rid=480812935)
+- [Dreamstime](https://www.dreamstime.com/jaivisualsnz_info))
+- [Pond5](https://www.pond5.com/artist/jaimedia1727173)
 
 ## Documentation
 Concept documentation, geometric logic, and design narrative for each icon is published here for reference and authorship record.
