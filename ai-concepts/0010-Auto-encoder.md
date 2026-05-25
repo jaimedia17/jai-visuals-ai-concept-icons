@@ -1,4 +1,22 @@
-<img width="945" height="926" alt="2026-05-25_193350" src="https://github.com/user-attachments/assets/a90dd618-9124-4826-9ca5-fb70f4e48dc0" />
+# Autoencoder Architecture - Encoder-Decoder Compression Symbol
+
+## Concept
+An autoencoder compresses input data into a minimal latent 
+representation then reconstructs it as output — encoding 
+essential features and decoding them back to original form.
+
+## Visual Interpretation
+Vertical pipeline reading top to bottom. Input compresses 
+toward a central bottleneck then expands back to output. 
+Symmetry above and below the centre reflects the encoder 
+and decoder relationship.
+
+## Keywords
+autoencoder, encoder decoder, latent space, data compression, 
+ai workflow, machine learning, dimensionality reduction, 
+bottleneck, teal vector, representation learning, 
+reconstruction pipeline, neural architecture
+
 
 ## Keywords : autoencoder, encoder decoder, latent space, data compression, ai workflow, machine learning, dimensionality reduction, bottleneck, teal vector, representation learning, reconstruction pipeline, neural architecture
 
