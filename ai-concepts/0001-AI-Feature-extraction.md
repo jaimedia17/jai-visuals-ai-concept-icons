@@ -1,5 +1,17 @@
-<img width="787" height="807" alt="AI-Feature-extraction" src="https://github.com/user-attachments/assets/d790804d-286b-4ec7-8c3a-9c35dea8d66f" />
+# Feature Extraction — Multi-Modal ML Pipeline Symbol
 
+## Concept
+Feature extraction is the process of isolating meaningful signals 
+from raw input data across multiple sources. It transforms 
+high-dimensional raw data into compact, structured feature 
+representations for downstream machine learning tasks.
+
+## Visual Interpretation
+Read top to bottom as a pipeline. Multiple input sources enter 
+the system from the top. The system compresses and processes 
+through a central transformation stage. Output branches at the 
+bottom into distinct separated feature types - signal, 
+structured, and semantic.
 
 ## Keywords:  feature extraction, multi-modal pipeline, data processing, ai workflow, machine learning, signal processing, funnel diagram, teal vector, dimensionality reduction, abstract schematic, ml preprocessing
 
