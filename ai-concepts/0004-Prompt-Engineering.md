@@ -4,7 +4,7 @@ The Prompt Engineering icon represents the process of transforming unstructured 
 
 ## Visual Interpretation
 
-Abstract vector icon representing the prompt engineering process in AI systems. A human figure with speech lines and fragmented dashes symbolizes unstructured user intent. A squared two-row processing box contains a radiating activation node, two probability gate triangles, a bar chart of weighted interpretations, and three circles representing variation states — candidate, selected, and discarded. A clean single bar at the bottom represents the final structured prompt delivered to the LLM. The design abstracts the full pipeline of intent contextualization, variation generation, probability evaluation, and directed prompt construction. Teal artboard, white single-path geometry, minimal schematic style.
+Abstract vector icon representing the prompt engineering process in AI systems. A human figure with speech lines and fragmented dashes symbolizes unstructured user intent. A squared two-row processing box contains a radiating activation node, two probability gate triangles, a bar chart of weighted interpretations, and three circles representing variation states candidate, selected, and discarded. A clean single bar at the bottom represents the final structured prompt delivered to the LLM. The design abstracts the full pipeline of intent contextualization, variation generation, probability evaluation, and directed prompt construction. Teal artboard, white single-path geometry, minimal schematic style.
 
 
 ## Keywords
