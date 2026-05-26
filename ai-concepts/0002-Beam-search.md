@@ -1,6 +1,9 @@
 
-<img width="860" height="791" alt="Image00001" src="https://github.com/user-attachments/assets/37042109-2a69-4ed2-b5a7-2891e945e369" />
+## Concept Overview: 
 
+The Beam Search icon represents the process of probabilistic path selection through a branching decision space. Its geometry uses a fanned tree structure with surviving and eliminated nodes to express parallel candidate tracking, probability-based pruning, and single-winner convergence.
+
+##
 
 ## Keywords
 beam search, probabilistic pruning, decision tree, ai decoding, sequence generation, nlp pipeline, heuristic search, teal vector, candidate selection, minimal schematic, path elimination
