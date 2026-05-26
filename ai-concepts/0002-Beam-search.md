@@ -12,4 +12,4 @@ beam search, probabilistic pruning, decision tree, ai decoding, sequence generat
 
 ## Stock Availability : [Dreamstime](https://www.dreamstime.com/beam-search-ai-decoding-probabilistic-pruning-tree-vector-icon-abstract-illustration-algorithm-showing-root-node-expanding-image457810278) | [AdobeStock](https://stock.adobe.com/nz/stock-photo/id/2026776873?asset_id=2026776873) | [Shutterstock](#) | [Pond5](#)
 
-## [Google Sites](https://sites.google.com/view/ai-icon-library-jai-visuals-nz/beam-search)
+## [Google Sites](https://sites.google.com/view/ai-icon-library-jai-visuals-nz/0002-beam-search)
