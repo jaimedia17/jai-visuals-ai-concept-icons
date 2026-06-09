@@ -31,4 +31,4 @@ episodic memory, conversation turns, query response
 ## Stock Available
 [Dreamstime](https://www.dreamstime.com/abstract-contextual-memory-retrieval-ai-workflow-vector-diagram-image461437085) | [AdobeStock](https://stock.adobe.com/nz/stock-photo/id/2052428500) | [Shutterstock]() | [Pond5]()
 
-[GoogleSites]()
+## [GoogleSites](https://sites.google.com/view/ai-icon-library-jai-visuals-nz/0011-contextual-memory-retrieval)
