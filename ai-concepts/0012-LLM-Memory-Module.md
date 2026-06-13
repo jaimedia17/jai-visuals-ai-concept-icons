@@ -2,7 +2,7 @@
 
 ## Concept Overview
 
-The LLM Memory Module icon represents how large language models and AI agents persist, access, and manage information across multiple memory tiers. When an LLM operates with a memory module, it reads from and writes to a structured external store — distinct from its fixed context window or trained parametric knowledge. The design uses clean geometric abstraction to express addressable memory slots, active versus passive states, and bidirectional bus access.
+The LLM Memory Module icon represents how large language models and AI agents persist, access, and manage information across multiple memory tiers. When an LLM operates with a memory module, it reads from and writes to a structured external store; distinct from its fixed context window or trained parametric knowledge. The design uses clean geometric abstraction to express addressable memory slots, active versus passive states, and bidirectional bus access.
 
 
 <img width="3172" height="3172" alt="Memory Module GitHub" src="https://github.com/user-attachments/assets/7511a06f-49a3-472b-8bca-15929f7ecfee" />
