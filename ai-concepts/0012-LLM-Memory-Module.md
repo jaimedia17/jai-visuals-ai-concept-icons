@@ -31,3 +31,5 @@ It represents tiered memory architecture, persistent state management, memory-au
 llm memory module, tiered memory, ai agent memory, persistent state, memory architecture, machine learning, working memory, teal vector, structured data, minimal schematic, memory augmented llm
 
 ## Stock available at :[Dreamstime](https://www.dreamstime.com/llm-memory-module-tiered-ai-architecture-abstract-vector-icon-teal-representing-design-features-rounded-rectangle-image461949799) | [Adobestock](https://stock.adobe.com/nz/stock-photo/id/2055938306) | 
+
+## [Google Sites](https://sites.google.com/view/ai-icon-library-jai-visuals-nz/)
