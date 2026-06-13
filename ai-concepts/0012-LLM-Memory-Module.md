@@ -1,4 +1,4 @@
-# LLM Memory Module — Tiered Memory Architecture Symbol
+# LLM Memory Module-Tiered Memory Architecture Symbol
 
 ## Concept Overview
 
