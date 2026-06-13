@@ -32,4 +32,4 @@ llm memory module, tiered memory, ai agent memory, persistent state, memory arch
 
 ## Stock available at :[Dreamstime](https://www.dreamstime.com/llm-memory-module-tiered-ai-architecture-abstract-vector-icon-teal-representing-design-features-rounded-rectangle-image461949799) | [Adobestock](https://stock.adobe.com/nz/stock-photo/id/2055938306) | 
 
-## [Google Sites](https://sites.google.com/view/ai-icon-library-jai-visuals-nz/)
+## [Google Sites](https://sites.google.com/view/ai-icon-library-jai-visuals-nz/0012-memory-module)
